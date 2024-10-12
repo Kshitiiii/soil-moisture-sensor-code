@@ -1,0 +1,1 @@
+Soil moisture sensor estimate the amount of water in the soil.Here there is a basic code of the soil moisture sensor of dry is the moisture level is nill and medium when some amount of moisture present and wet for appropriate moisture level.
